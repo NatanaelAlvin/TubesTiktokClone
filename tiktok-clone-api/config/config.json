@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "alvin521",
+    "database": "tiktok_clone",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "",
+    "database": "tiktok_clone_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "",
+    "database": "tiktok_clone_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
